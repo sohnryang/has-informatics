@@ -1,0 +1,5 @@
+a = input('정수입력 >> ')
+b = input('정수입력 >> ')
+print(a, type(a))
+print(b, type(b))
+print(a + b)
