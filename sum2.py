@@ -1,0 +1,1 @@
+print(sum(filter(lambda x: x % 3 != 0, range(1, 101))))
